@@ -9,6 +9,12 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.taastrup_kloakservice {
+    color: red;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
 img {
     -webkit-transform: translate3d(0, 0, 0);
 }
